@@ -1,0 +1,31 @@
+.put
+{
+	height:30px;
+	border-radius:5px;
+	
+	border:1px solid #0EBFE9;
+}
+
+.btn-success
+{
+		height:36px;
+		width:290px;
+		font-size:17px;
+}
+
+.login
+{
+	height:35px;
+	width:210px;
+	margin-top:30px;
+	margin-left:40px;
+	padding-left:30px;
+	margin-bottom:20px;
+}
+.login_page
+{
+	height:30px;
+	width:260px;
+	margin-bottom:10px;
+	
+}

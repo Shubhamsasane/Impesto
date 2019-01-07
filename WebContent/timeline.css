@@ -1,0 +1,33 @@
+@CHARSET "ISO-8859-1";
+
+
+.side-bar
+{
+	
+	height:100%;
+	background-color:#f1f1f1;
+	margin-top:1px;
+
+	
+}	
+.row.content
+{
+	height:100%;
+	
+}
+.profile-name
+{
+		float:left;
+		padding-left:10px;
+	
+}
+.post-status{
+	clear:left;
+	padding-top:10px;
+	
+}
+.profile-pic
+{
+	border:2px solid black;
+	float:left;
+}

@@ -1,0 +1,17 @@
+@CHARSET "ISO-8859-1";
+.infoList
+{
+	display:block;
+	padding:10px;	
+}
+
+.infoList:active
+{
+	background-color:#5bc0de;
+}
+.infoList:visited
+{
+	background-color:red;
+}
+
+
